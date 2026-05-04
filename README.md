@@ -14,6 +14,5 @@ markdown
 ---
 ## Как запустить
 ```bash
-git clone https://github.com/myseryxxv404/movie.git
 cd movie
 python main.py
